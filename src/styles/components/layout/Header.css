@@ -1,0 +1,29 @@
+header {
+    background-color: white;
+    padding: 16px 0;
+}
+
+header div {
+    display: inline-block;
+    position: relative;
+}
+
+header img {
+    margin-top: -10px;
+}
+
+header h1, h5 {
+    font-weight: 500;
+    padding: 10px;
+    margin: 0;
+}
+
+header h1 {
+    font-size: 60px;
+    color: #14607e;
+}
+
+header h5 {
+    font-size: 20px;
+    color: #122a3e;
+}
